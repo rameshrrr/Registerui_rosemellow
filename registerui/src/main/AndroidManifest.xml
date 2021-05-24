@@ -3,7 +3,7 @@
     package="com.rosemellow.registerui">
 
     <application>
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivitynew"></activity>
     </application>
 
 </manifest>
